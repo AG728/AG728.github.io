@@ -1,0 +1,74 @@
+/* all of your css goes here */
+
+/* how the header should look*/
+
+h1 {
+    font-family: Calibri;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(91, 91, 235);
+    border-style: dashed;
+    border-width: 10px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+/* how the second header, or the text under the header should look*/
+
+h2 {
+    font-family: Calibri;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(121, 121, 248);
+    text-shadow: 5px 5px 5px rgb(66, 91, 154);
+}
+    
+      
+div {
+    width: 500px;
+    padding-left: 225px;
+}
+
+/* the details around the photo to make it look nice */
+
+img.photo {
+    border: solid 10px white;
+    box-shadow: 10px 10px 20px gray;
+    margin-bottom: 20px;
+    text-align: center;
+}
+      
+button.button {
+    background-color: rgb(141, 69, 255);
+    color: white;
+    width: 130px;
+    font-size: 30px;
+    font-family: oswald;
+    border-radius: 8px;
+    box-shadow: 0px 8px 0px rgb(25, 2, 88);
+    margin-left: 15px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(4, 3, 43);
+}
+
+p {
+color: rgb(121, 121, 248);    
+font-size: 20px;
+text-align: center;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+h3 {
+color: rgb(91, 91, 235);
+font-size: 50px;
+}
+
+h4 {
+color: rgb(91, 91, 235);
+font-size: 25;
+}
